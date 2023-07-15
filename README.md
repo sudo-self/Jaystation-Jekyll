@@ -1,14 +1,9 @@
-# The Hacker theme
+# Jekylle Theme Turned Retro Console
 
-[![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-hacker.svg)](https://badge.fury.io/rb/jekyll-theme-hacker)
+<img width="814" alt="Screenshot 2023-07-14 at 7 38 45 PM" src="https://github.com/sudo-self/Jaystation-Jekyll/assets/119916323/24777bfa-21a8-4684-8b56-86eb2dd38373">
 
-*Hacker is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/hacker), or even [use it today](#usage).*
 
-![Thumbnail of Hacker](thumbnail.png)
 
-## Usage
-
-To use the Hacker theme:
 
 1. Add the following to your site's `_config.yml`:
 
