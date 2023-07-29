@@ -1,6 +1,5 @@
 # Jekylle Theme Turned Retro Console
-
-<img width="814" alt="Screenshot 2023-07-14 at 7 38 45 PM" src="https://github.com/sudo-self/Jaystation-Jekyll/assets/119916323/24777bfa-21a8-4684-8b56-86eb2dd38373">
+[![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/sudo-self/sudo-self.github.io/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/sudo-self/sudo-self.github.io/actions/workflows/jekyll-gh-pages.yml)<img width="814" alt="Screenshot 2023-07-14 at 7 38 45 PM" src="https://github.com/sudo-self/Jaystation-Jekyll/assets/119916323/24777bfa-21a8-4684-8b56-86eb2dd38373">
 
 
 
